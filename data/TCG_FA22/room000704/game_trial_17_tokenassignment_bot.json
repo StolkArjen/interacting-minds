@@ -1,0 +1,40 @@
+[{
+    "epoch": "tokenassignment",
+    "trial": 17,
+    "player": "899448061.1164461",
+    "stage": {
+        "stage": 3,
+        "step": 2,
+        "round": 17
+    },
+    "timestamp": 1664307133044,
+    "session": "room000704"
+}, {
+    "time": 1494,
+    "timeup": true,
+    "role": "SENDER",
+    "partner": "899448061.1164461",
+    "done": true,
+    "player": "718250368.5545256",
+    "stage": {
+        "stage": 3,
+        "step": 2,
+        "round": 17
+    },
+    "timestamp": 1664307134529,
+    "session": "room000704"
+}, {
+    "time": 1502,
+    "timeup": true,
+    "role": "RECEIVER",
+    "partner": "718250368.5545256",
+    "done": true,
+    "player": "899448061.1164461",
+    "stage": {
+        "stage": 3,
+        "step": 2,
+        "round": 17
+    },
+    "timestamp": 1664307134552,
+    "session": "room000704"
+}]

@@ -1,0 +1,51 @@
+[{
+    "epoch": "tokenassignment",
+    "trial": 50,
+    "player": "203356140.58118346",
+    "stage": {
+        "stage": 3,
+        "step": 2,
+        "round": 50
+    },
+    "timestamp": 1664371415009,
+    "session": "room000739"
+}, {
+    "epoch": "tokenassignment",
+    "trial": 50,
+    "player": "56523319.81353509",
+    "stage": {
+        "stage": 3,
+        "step": 2,
+        "round": 50
+    },
+    "timestamp": 1664371415013,
+    "session": "room000739"
+}, {
+    "time": 1508,
+    "timeup": true,
+    "role": "RECEIVER",
+    "partner": "203356140.58118346",
+    "done": true,
+    "player": "56523319.81353509",
+    "stage": {
+        "stage": 3,
+        "step": 2,
+        "round": 50
+    },
+    "timestamp": 1664371416513,
+    "session": "room000739"
+}, {
+    "time": 1501,
+    "timeup": true,
+    "role": "SENDER",
+    "partner": "56523319.81353509",
+    "done": true,
+    "player": "203356140.58118346",
+    "stage": {
+        "stage": 3,
+        "step": 2,
+        "round": 50
+    },
+    "timestamp": 1664371416515,
+    "session": "room000739"
+}]
